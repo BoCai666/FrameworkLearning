@@ -1,0 +1,13 @@
+F:\DevelopeGameAbout\MyGitHub\Framework\IOC\IOC\IOC\bin\Debug\netcoreapp3.1\IOC.exe
+F:\DevelopeGameAbout\MyGitHub\Framework\IOC\IOC\IOC\bin\Debug\netcoreapp3.1\IOC.deps.json
+F:\DevelopeGameAbout\MyGitHub\Framework\IOC\IOC\IOC\bin\Debug\netcoreapp3.1\IOC.runtimeconfig.json
+F:\DevelopeGameAbout\MyGitHub\Framework\IOC\IOC\IOC\bin\Debug\netcoreapp3.1\IOC.runtimeconfig.dev.json
+F:\DevelopeGameAbout\MyGitHub\Framework\IOC\IOC\IOC\bin\Debug\netcoreapp3.1\IOC.dll
+F:\DevelopeGameAbout\MyGitHub\Framework\IOC\IOC\IOC\bin\Debug\netcoreapp3.1\IOC.pdb
+F:\DevelopeGameAbout\MyGitHub\Framework\IOC\IOC\IOC\obj\Debug\netcoreapp3.1\IOC.csprojAssemblyReference.cache
+F:\DevelopeGameAbout\MyGitHub\Framework\IOC\IOC\IOC\obj\Debug\netcoreapp3.1\IOC.AssemblyInfoInputs.cache
+F:\DevelopeGameAbout\MyGitHub\Framework\IOC\IOC\IOC\obj\Debug\netcoreapp3.1\IOC.AssemblyInfo.cs
+F:\DevelopeGameAbout\MyGitHub\Framework\IOC\IOC\IOC\obj\Debug\netcoreapp3.1\IOC.csproj.CoreCompileInputs.cache
+F:\DevelopeGameAbout\MyGitHub\Framework\IOC\IOC\IOC\obj\Debug\netcoreapp3.1\IOC.dll
+F:\DevelopeGameAbout\MyGitHub\Framework\IOC\IOC\IOC\obj\Debug\netcoreapp3.1\IOC.pdb
+F:\DevelopeGameAbout\MyGitHub\Framework\IOC\IOC\IOC\obj\Debug\netcoreapp3.1\IOC.genruntimeconfig.cache
