@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Reflection;
 
 namespace IOC
 {
@@ -10,13 +11,10 @@ namespace IOC
 
         IInstanceProvider instanceProvider;
 
-        public Container() : this(new RelfectionInstacneProvider())
-        {
-        }
-
-        public Container(IInstanceProvider instanceProvider)
+        public Container ConfigureInstanceProvider(IInstanceProvider instanceProvider)
         {
             this.instanceProvider = instanceProvider;
+            return this;
         }
 
         public void Register<TBase, TDerived>() where TDerived : TBase
@@ -26,12 +24,18 @@ namespace IOC
 
         public TBase Resolve<TBase>()
         {
-            var type = typeof(TBase);
+            var obj = Resolve(typeof(TBase));
+            if (obj != null) return (TBase)obj;
+            return default(TBase);
+        }
+
+        public object Resolve(Type type)
+        {
             if (depot.ContainsKey(type))
             {
-                return (TBase)depot[type];
+                return depot[type];
             }
-            return default(TBase);
+            return null;
         }
 
         void InternalRegister<TBase, TDerived>() where TDerived : TBase

@@ -8,5 +8,6 @@ namespace IOC
     {
         void Register<TBase, TDerived>() where TDerived : TBase; 
         TBase Resolve<TBase>();
+        object Resolve(Type type);
     }
 }
