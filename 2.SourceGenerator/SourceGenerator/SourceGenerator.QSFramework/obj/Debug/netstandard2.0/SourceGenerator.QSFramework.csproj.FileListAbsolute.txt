@@ -1,0 +1,10 @@
+D:\Work\VisualStudio\Program\SourceGenerator\SourceGenerator.QSFramework\bin\Debug\netstandard2.0\SourceGenerator.QSFramework.deps.json
+D:\Work\VisualStudio\Program\SourceGenerator\SourceGenerator.QSFramework\bin\Debug\netstandard2.0\SourceGenerator.QSFramework.dll
+D:\Work\VisualStudio\Program\SourceGenerator\SourceGenerator.QSFramework\bin\Debug\netstandard2.0\SourceGenerator.QSFramework.pdb
+D:\Work\VisualStudio\Program\SourceGenerator\SourceGenerator.QSFramework\obj\Debug\netstandard2.0\SourceGenerator.QSFramework.csproj.AssemblyReference.cache
+D:\Work\VisualStudio\Program\SourceGenerator\SourceGenerator.QSFramework\obj\Debug\netstandard2.0\SourceGenerator.QSFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\VisualStudio\Program\SourceGenerator\SourceGenerator.QSFramework\obj\Debug\netstandard2.0\SourceGenerator.QSFramework.AssemblyInfoInputs.cache
+D:\Work\VisualStudio\Program\SourceGenerator\SourceGenerator.QSFramework\obj\Debug\netstandard2.0\SourceGenerator.QSFramework.AssemblyInfo.cs
+D:\Work\VisualStudio\Program\SourceGenerator\SourceGenerator.QSFramework\obj\Debug\netstandard2.0\SourceGenerator.QSFramework.csproj.CoreCompileInputs.cache
+D:\Work\VisualStudio\Program\SourceGenerator\SourceGenerator.QSFramework\obj\Debug\netstandard2.0\SourceGenerator.QSFramework.dll
+D:\Work\VisualStudio\Program\SourceGenerator\SourceGenerator.QSFramework\obj\Debug\netstandard2.0\SourceGenerator.QSFramework.pdb
